@@ -22,13 +22,13 @@
   
   .menu-2 {
       display: flex;
-      justify-content: center;
+      justify-content: space-around;
       border: 1px solid #fff; 
     width: 900px;
   }
 .menu-3 {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     border: 1px solid #fff;
     width: 900px;
 
