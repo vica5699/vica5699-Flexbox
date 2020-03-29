@@ -19,13 +19,22 @@
     display: flex;
     justify-content: flex-end;
   }
-  
+  .menu-container-2 {
+      color: #fff;
+      background-color: #5995DA;
+      padding: 20px 0;
+  }
   .menu-2 {
       display: flex;
       justify-content: space-around;
       border: 1px solid #fff; 
     width: 900px;
   }
+.menu-container-3 {
+    color: #fff;
+    background-color: #5995DA;
+    padding: 20px 0;
+}
 .menu-3 {
     display: flex;
     justify-content: space-around;
