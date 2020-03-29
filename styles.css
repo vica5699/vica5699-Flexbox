@@ -10,7 +10,7 @@
 }
 .menu {
     display: flex; 
-    justify-content: space-between;  /* Add this */
+    justify-content: space-around;  /* Add this */
     border: 1px solid #fff; /* For debugging */
     width: 900px;
 }
@@ -20,11 +20,18 @@
     justify-content: flex-end;
   }
   
-  .Genre-Analysis-Essay {
-    margin-left: 20px;
+  .menu-2 {
+      display: flex;
+      justify-content: center;
+      border: 1px solid #fff; 
+    width: 900px;
   }
-  .Individual-Project {
-    margin-left: auto;
+.menu-3 {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #fff;
+    width: 900px;
+
   }
   .header-container {
     color: #5995DA;
